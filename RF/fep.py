@@ -1,14 +1,11 @@
-# import here
 import pandas as pd
 from typing import Callable
 
-# function for load features
 
 def load_features(path:str):
     data = pd.read_csv(path)
     return data
 
-# class for feature extraction pipeline
 
 class FEP:
     def __init__(self, path:str):

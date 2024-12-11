@@ -1,6 +1,7 @@
 # Structure
 
 - note1: dataset evaluation in his orignal form.
+- note2: Feature Extraction Pipeline for Data Processing
 
 ## note1: Dataset Evaluation in his orignal form
 
@@ -17,5 +18,14 @@ The purpose of **note1** is to assess the dataset in its original form, without 
    - The experiment highlights that the features provided in the dataset are not suitable for solving the problem effectively. 
 
 This analysis sets the stage for further preprocessing, feature selection, or engineering to improve model generalization.
+
+
+## note2: Feature Extraction Pipeline for Data Processing
+
+### Purpose
+
+The purpose of **note2** is to provide a pipeline for storing and loading extracted features, ensuring that the features are not recalculated every time they are needed. This notebook includes an example of how to use the pipeline, while the class implementation is stored in a separate Python file (**fep.py**).
+
+
 
 

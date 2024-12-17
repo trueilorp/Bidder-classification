@@ -11,8 +11,11 @@ class FEP:
 	def __init__(self, path:str):
 		self.path = path
 
-	def save_features(self):
-		self.data.to_csv(f'{self.path}', index=False)
+	def save_features(self, df=None):
+		if df is not None:
+			df.to_csv(f'{self.path}', index=False)
+		else:
+			self.data.to_csv(f'{self.path}', index=False)
 
 	def extract_features(self, df:pd.DataFrame, feature_function: Callable[[pd.DataFrame], pd.DataFrame]):
 		self.data = feature_function(df)

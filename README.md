@@ -11,4 +11,4 @@ Per ogni strategia test con possibili combinazioni di feature
 #### Modelli:
 - Modello 
 
-alla fine scegliere il modello migliore, ricevere uno score da kaggle, controllare piazzamento per valutare la nostra soluzione rispetto alla community di kaggle
+alla fine scegliere strategia e modello migliore, ricevere uno score da kaggle, controllare piazzamento per valutare la nostra soluzione rispetto alla community di kaggle

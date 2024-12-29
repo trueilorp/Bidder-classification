@@ -12,9 +12,3 @@ Per ogni strategia test con possibili combinazioni di feature
 - Modello 
 
 alla fine scegliere strategia e modello migliore, ricevere uno score da kaggle, controllare piazzamento per valutare la nostra soluzione rispetto alla community di kaggle
-
-### Come proseguire:
-# testare bid_per_device
-# categorizzare features per vedere se sono più informative
-
-

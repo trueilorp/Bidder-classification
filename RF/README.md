@@ -19,13 +19,20 @@ The purpose of **note1** is to assess the dataset in its original form, without 
 
 This analysis sets the stage for further preprocessing, feature selection, or engineering to improve model generalization.
 
-
 ## note2: Feature Extraction Pipeline for Data Processing
 
 ### Purpose
 
 The purpose of **note2** is to provide a pipeline for storing and loading extracted features, ensuring that the features are not recalculated every time they are needed. This notebook includes an example of how to use the pipeline, while the class implementation is stored in a separate Python file (**fep.py**).
 
+## note3: Feature engineering part 1
 
+### Purpose
 
+In this notebook is to extract some features that could be helpful in bot classification task. 
 
+## note3: Feature engineering part 2
+
+### Purpose
+
+In this notebook is to extract features related to the time. 

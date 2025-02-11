@@ -10,7 +10,7 @@ def load_features(path:str):
 class FEP:
 	def __init__(self, path:str):
 		self.path = path
-		
+
 	def save_features(self, df=None):
 		if df is not None:
 			df.to_csv(f'{self.path}', index=False)

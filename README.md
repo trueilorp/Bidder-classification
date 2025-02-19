@@ -4,7 +4,7 @@ This project is part of the Machine Learning exam. It is based on the Kaggle com
 [Facebook Recruiting IV: Human or Bot](https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot),  which Facebook used in its hiring process.  
 
 ## Authors  
-- Riccardo Fidanza  
+- Riccardo Fidanza
 - Simone Dario  
 
 ## Data  

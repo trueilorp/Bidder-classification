@@ -1,16 +1,18 @@
-# ML Project 
-(https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot)
+# ML Project  
 
+This project is part of the Machine Learning exam. It is based on the Kaggle competition:  
+[Facebook Recruiting IV: Human or Bot](https://www.kaggle.com/competitions/facebook-recruiting-iv-human-or-bot),  
+which Facebook used in its hiring process.  
 
-Per ogni strategia test con possibili combinazioni di feature
+## Authors  
+- Riccardo Fidanza  
+- Simone Dario  
 
-### Strategia 1: classification sulle bid, contare e determinare stato bidder
-#### Modelli:
-- Modello 
-### Strategia 2: classification direttamente sui bidder
+## Data  
+- **train.csv**  
+- **bids.csv** (This file is too large to be uploaded here. You can obtain it by joining the competition on Kaggle.)  
 
-#### Modelli: 
-- Modello 
-
-alla fine scegliere strategia e modello migliore, ricevere uno score da kaggle, controllare piazzamento per valutare la nostra soluzione rispetto alla community di kaggle
-
+## Contents  
+This repository includes:  
+- **bidder_classification.ipynb** – Our study and analysis of the problem.  
+- **Project Report** – A detailed explanation of our work, including methodology, results, and conclusions.  

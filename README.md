@@ -13,5 +13,6 @@ This project is part of the Machine Learning exam. It is based on the Kaggle com
 
 ## Contents  
 This repository includes:  
-- **bidder_classification.ipynb** – Our study and analysis of the problem.  
+- **bidder_classification.ipynb** – Our study and analysis of the problem.
+- **bidder_classification.pdf** – pdf version of our notebook.  
 - **Project Report** – A detailed explanation of our work, including methodology, results, and conclusions.  
